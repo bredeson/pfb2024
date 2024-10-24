@@ -1,6 +1,6 @@
 # GMOD Workshop
 
-[Lecture slides](PfB2024_The_Generic_Model_Organism_Database_project.pdf)
+[Lecture slides](https://github.com/prog4biol/pfb2024/blob/master/workshops/GMOD/PfB2024_The_Generic_Model_Organism_Database_project.pdf)
 
 
 ## Demos:
